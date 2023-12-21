@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Greendzine-Intern-Assignment/static/css/main.52bce886.css",
+    "main.js": "/Greendzine-Intern-Assignment/static/js/main.0c27b774.js",
+    "static/js/787.8cbf1f02.chunk.js": "/Greendzine-Intern-Assignment/static/js/787.8cbf1f02.chunk.js",
+    "static/media/Group 3@2x.png": "/Greendzine-Intern-Assignment/static/media/Group 3@2x.aef595482ee3b5bfac89.png",
+    "static/media/moptro logo@2x.png": "/Greendzine-Intern-Assignment/static/media/moptro logo@2x.56c4ec6e83a3f99fa1a1.png",
+    "index.html": "/Greendzine-Intern-Assignment/index.html",
+    "main.52bce886.css.map": "/Greendzine-Intern-Assignment/static/css/main.52bce886.css.map",
+    "main.0c27b774.js.map": "/Greendzine-Intern-Assignment/static/js/main.0c27b774.js.map",
+    "787.8cbf1f02.chunk.js.map": "/Greendzine-Intern-Assignment/static/js/787.8cbf1f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bce886.css",
+    "static/js/main.0c27b774.js"
+  ]
+}
